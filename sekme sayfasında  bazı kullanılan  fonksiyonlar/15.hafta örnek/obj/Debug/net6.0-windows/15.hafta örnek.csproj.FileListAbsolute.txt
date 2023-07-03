@@ -1,0 +1,17 @@
+C:\Users\cengiz\source\repos\15.hafta örnek\15.hafta örnek\bin\Debug\net6.0-windows\15.hafta örnek.exe
+C:\Users\cengiz\source\repos\15.hafta örnek\15.hafta örnek\bin\Debug\net6.0-windows\15.hafta örnek.deps.json
+C:\Users\cengiz\source\repos\15.hafta örnek\15.hafta örnek\bin\Debug\net6.0-windows\15.hafta örnek.runtimeconfig.json
+C:\Users\cengiz\source\repos\15.hafta örnek\15.hafta örnek\bin\Debug\net6.0-windows\15.hafta örnek.dll
+C:\Users\cengiz\source\repos\15.hafta örnek\15.hafta örnek\bin\Debug\net6.0-windows\15.hafta örnek.pdb
+C:\Users\cengiz\source\repos\15.hafta örnek\15.hafta örnek\obj\Debug\net6.0-windows\15.hafta örnek.csproj.AssemblyReference.cache
+C:\Users\cengiz\source\repos\15.hafta örnek\15.hafta örnek\obj\Debug\net6.0-windows\_15.hafta_örnek.Form1.resources
+C:\Users\cengiz\source\repos\15.hafta örnek\15.hafta örnek\obj\Debug\net6.0-windows\15.hafta örnek.csproj.GenerateResource.cache
+C:\Users\cengiz\source\repos\15.hafta örnek\15.hafta örnek\obj\Debug\net6.0-windows\15.hafta örnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cengiz\source\repos\15.hafta örnek\15.hafta örnek\obj\Debug\net6.0-windows\15.hafta örnek.AssemblyInfoInputs.cache
+C:\Users\cengiz\source\repos\15.hafta örnek\15.hafta örnek\obj\Debug\net6.0-windows\15.hafta örnek.AssemblyInfo.cs
+C:\Users\cengiz\source\repos\15.hafta örnek\15.hafta örnek\obj\Debug\net6.0-windows\15.hafta örnek.csproj.CoreCompileInputs.cache
+C:\Users\cengiz\source\repos\15.hafta örnek\15.hafta örnek\obj\Debug\net6.0-windows\15.hafta örnek.dll
+C:\Users\cengiz\source\repos\15.hafta örnek\15.hafta örnek\obj\Debug\net6.0-windows\refint\15.hafta örnek.dll
+C:\Users\cengiz\source\repos\15.hafta örnek\15.hafta örnek\obj\Debug\net6.0-windows\15.hafta örnek.pdb
+C:\Users\cengiz\source\repos\15.hafta örnek\15.hafta örnek\obj\Debug\net6.0-windows\15.hafta örnek.genruntimeconfig.cache
+C:\Users\cengiz\source\repos\15.hafta örnek\15.hafta örnek\obj\Debug\net6.0-windows\ref\15.hafta örnek.dll
